@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2026-03-14 00:41:26 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:43:21 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:44:25 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:44:36 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:44:36 --> 404 Page Not Found: Metajson/index
+ERROR - 2026-03-14 00:44:37 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:44:37 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:44:38 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:44:47 --> 404 Page Not Found: Metajson/index
+ERROR - 2026-03-14 00:44:48 --> 404 Page Not Found: Metajson/index
+ERROR - 2026-03-14 00:44:48 --> 404 Page Not Found: Metajson/index
+ERROR - 2026-03-14 00:44:48 --> 404 Page Not Found: Metajson/index
+ERROR - 2026-03-14 00:44:51 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:45:09 --> 404 Page Not Found: Metajson/index
+ERROR - 2026-03-14 00:45:20 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:47:03 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:47:03 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:48:16 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:48:16 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:49:02 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:49:02 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:49:02 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:49:59 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:49:59 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:50:50 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:50:50 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:51:36 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:51:36 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:52:20 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:52:20 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:52:42 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:52:42 --> 404 Page Not Found: Assets/website
+ERROR - 2026-03-14 00:52:53 --> 404 Page Not Found: Assets/website

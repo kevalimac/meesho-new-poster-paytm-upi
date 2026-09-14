@@ -1,0 +1,28 @@
+<IfModule mod_rewrite.c>
+AddHandler application/x-httpd-php74 .php
+    RewriteEngine On
+    # Uncomment the line below if your website is in a subdirectory like '/seatup/'
+    # RewriteBase /seatup/
+    
+    # Redirect www to non-www version (uncomment if needed)
+    # RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+    # RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+    
+    # Exclude specific directories and files from rewriting
+    RewriteCond $1 !^(index\.php|resources|robots\.txt)
+    
+    # Check if the requested URL is not a file or directory
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    
+    # Rewrite all other requests to index.php with the original path as a parameter
+    RewriteRule ^(.*)$ index.php?/$1 [L,QSA]
+</IfModule>
+
+php_value date.timezone 'Asia/Kolkata'
+php_value memory_limit 8000M
+php_value upload_max_filesize 7000M
+php_value post_max_size 8000M
+php_value max_input_time 5000
+php_value max_execution_time 5000
+AddHandler application/x-httpd-php74 .php
